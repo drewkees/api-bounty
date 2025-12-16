@@ -1,0 +1,8 @@
+{
+  "name": "vercel-backend",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "googleapis": "^168.0.0"
+  }
+}
